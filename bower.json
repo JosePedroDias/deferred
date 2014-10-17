@@ -1,0 +1,20 @@
+{
+  "name": "deferred",
+  "version": "0.0.0",
+  "authors": [
+    "José Pedro <jose.pedro.dias@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*",
+    "threejs-examples": "*"
+  }
+}
